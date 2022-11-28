@@ -1,6 +1,6 @@
 # 説明
 G's課題：  
-卒業制作。企画〜制作までやりましょう。  
+卒業制作。企画〜制作まで。  
 
 * リアルタイムアニメーション動画（オープニング）
 * インベントリ機能
@@ -9,7 +9,7 @@ G's課題：
   
 Unity  
 &nbsp;&nbsp;Standard Assets  
-&nbsp;&nbsp;Standard UniRx  
+&nbsp;&nbsp;UniRx  
 &nbsp;&nbsp;その他キャラクターや家などの素材  
   
 Youtubeリンク：  
